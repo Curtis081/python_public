@@ -3,7 +3,7 @@ import time
 
 
 def mouse_left_click_demo():
-    delay_time = 4 * 60
+    delay_time = 4 * 60 + 30
     # current_mouse_X, current_mouse_Y = pyautogui.position()
     target_mouse_X, target_mouse_Y = pyautogui.position()
 
